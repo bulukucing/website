@@ -1,3 +1,3 @@
 export default defineAppConfig({
-  title: 'Abdul Qirom\'s Website'
+  title: 'Abdul Qirom Profile'
 })
