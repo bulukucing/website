@@ -8,7 +8,7 @@
   useHead({
     title: appConfig.title,
     meta: [
-      { name: "description", content: "portfolio and profile Abdul Qirom"}
+      { name: "description", content: appConfig.description }
     ]
   })
 </script>
