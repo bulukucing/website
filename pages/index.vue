@@ -1,7 +1,7 @@
 <template>
-  <div class="container mx-auto px-4 pt-8 md:pt-0">
-    <div class="h-screen md:grid place-content-center">
-      <div class="max-w-prose mb-4 md:mb-8">
+  <div class="container mx-auto px-4 mt-12 md:mt-0">
+    <div class="md:h-screen md:grid md:place-content-center">
+      <div class="max-w-prose mb-5 md:mb-8">
         <h1 class="text-2xl md:text-4xl text-center font-extrabold mb-2">
           Hello, I am Abdul Qirom AKA. Bulu Kucing, I loves doing code
           especially on web development
@@ -10,7 +10,7 @@
           Front-end web developer
         </p>
       </div>
-      <div class="max-w-prose mb-4 md:mb-8">
+      <div class="max-w-prose mb-5 md:mb-8">
         <div class="mb-4">
           <h2 class="text-xl md:text-2xl text-center font-extrabold">
             Tech and Tools
@@ -70,7 +70,7 @@
           </span>
         </div>
       </div>
-      <div class="max-w-prose mb-4 md:mb-8">
+      <div class="max-w-prose mb-5 md:mb-8">
         <div class="mb-4">
           <h2 class="text-xl md:text-2xl font-extrabold text-center">
             Social Media
@@ -79,39 +79,33 @@
         <div class="flex flex-row flex-wrap gap-4 justify-center md:text-xl">
           <a
             href="https://github.com/bulukucing/"
-            target="_blank"
             class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
           >
             <Icon name="logos:github-icon" />
           </a>
           <a
             href="#"
-            target="_blank"
             class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
           >
             <Icon name="logos:linkedin-icon" />
           </a>
           <a
             href="https://www.facebook.com/abdul.qirom.323"
-            target="_blank"
             class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
           >
             <Icon name="logos:facebook" />
           </a>
           <a
             href="https://www.instagram.com/bulukucing_bk/"
-            target="_blank"
             class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
           >
             <Icon name="logos:instagram-icon" />
           </a>
         </div>
       </div>
-      <div class="max-w-prose mb-4 md:mb-8">
+      <div class="max-w-prose">
         <div class="mb-2">
-          <h3 class="text-xl md:text-2xl font-extrabold text-center">
-            More
-          </h3>
+          <h3 class="text-xl md:text-2xl font-extrabold text-center">More</h3>
         </div>
         <div>
           <div class="flex gap-4 justify-center">
