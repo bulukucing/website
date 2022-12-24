@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-8 mb-16">
+  <div class="container mx-auto px-8 md:px-0 mb-24">
     <div class="grid justify-center">
       <NavBar/>
       <div>
