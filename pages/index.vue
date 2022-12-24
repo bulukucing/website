@@ -65,7 +65,7 @@
           <span
             class="bg-slate-800 text-sm text-gray-200 px-2 py-1 font-semibold rounded"
           >
-            <Icon name="logos:visual-studio-code" class="mr-1 w-3 h-3" />
+            <Icon name="logos:visual-studio-code" class="mr-1 w-3 h-3"/>
             VS Code
           </span>
         </div>
@@ -76,30 +76,30 @@
             Social Media
           </h2>
         </div>
-        <div class="flex flex-row flex-wrap gap-4 justify-center text-sm md:text-xl">
+        <div class="flex flex-row flex-wrap gap-4 justify-center text-sm  font-mono font-semibold">
           <a
             href="https://github.com/bulukucing/"
-            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
+            class="bg-zinc-200 hover:text-gray-200 hover:bg-zinc-600 px-2.5 py-1.5 rounded-md"
           >
-            <Icon name="logos:github-icon"/>
+            <Icon name="logos:github-icon" class="mr-1 w-3 h-3" alt="Github"/>Github
           </a>
           <a
             href="#"
-            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
+            class="bg-zinc-200 hover:text-gray-200 hover:bg-zinc-600 px-2.5 py-1.5 rounded-md"
           >
-            <Icon name="logos:linkedin-icon"/>
+            <Icon name="logos:linkedin-icon" class="mr-1 w-3 h-3" alt="Linkedin"/>LinkedIn
           </a>
           <a
             href="https://www.facebook.com/abdul.qirom.323"
-            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
+            class="bg-zinc-200 hover:text-gray-200 hover:bg-zinc-600 px-2.5 py-1.5 rounded-md"
           >
-            <Icon name="logos:facebook"/>
+            <Icon name="logos:facebook" class="mr-1 w-3 h-3" alt="Facebook"/>Facebook
           </a>
           <a
             href="https://www.instagram.com/bulukucing_bk/"
-            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
+            class="bg-zinc-200 hover:text-gray-200 hover:bg-zinc-600 px-2.5 py-1.5 rounded-md"
           >
-            <Icon name="logos:instagram-icon"/>
+            <Icon name="logos:instagram-icon" class="mr-1 w-3 h-3" alt="Instagram"/>Instagram
           </a>
         </div>
       </div>
