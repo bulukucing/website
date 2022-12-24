@@ -7,6 +7,7 @@
 
   useHead({
     title: appConfig.title,
+    htmlAttrs: { lang: "en" },
     meta: [
       { name: "description", content: appConfig.description }
     ]
