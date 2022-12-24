@@ -76,30 +76,30 @@
             Social Media
           </h2>
         </div>
-        <div class="flex flex-row flex-wrap gap-4 justify-center md:text-xl">
+        <div class="flex flex-row flex-wrap gap-4 justify-center text-sm md:text-xl">
           <a
             href="https://github.com/bulukucing/"
-            class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
+            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
           >
-            <Icon name="logos:github-icon" />
+            <Icon name="logos:github-icon"/>
           </a>
           <a
             href="#"
-            class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
+            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
           >
-            <Icon name="logos:linkedin-icon" />
+            <Icon name="logos:linkedin-icon"/>
           </a>
           <a
             href="https://www.facebook.com/abdul.qirom.323"
-            class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
+            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
           >
-            <Icon name="logos:facebook" />
+            <Icon name="logos:facebook"/>
           </a>
           <a
             href="https://www.instagram.com/bulukucing_bk/"
-            class="bg-violet-200 hover:bg-violet-600 text-sm md:text-md p-2 text-center px-4 pb-3.5 rounded-full"
+            class="bg-violet-200 hover:bg-gray-600 py-3 px-4 text-center rounded-lg"
           >
-            <Icon name="logos:instagram-icon" />
+            <Icon name="logos:instagram-icon"/>
           </a>
         </div>
       </div>

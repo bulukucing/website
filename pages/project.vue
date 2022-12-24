@@ -6,8 +6,10 @@
       </NuxtLink>
     </div>
     <div>
-      <h2 class="text-2xl font-bold">Project</h2>
-      <p>nothing here...</p>
+      <article class="prose">
+        <h2>Project</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quia et nulla corrupti molestiae voluptatibus ut consequuntur aliquam fugit. Eos eum, autem eligendi et asperiores maxime fugiat minima dolorum consectetur mollitia minus magnam odit doloribus in. Cupiditate ipsa perferendis magnam ratione ullam quisquam nisi maxime corrupti laborum, modi mollitia omnis?</p>
+      </article>
     </div>
   </div>
 </template>
